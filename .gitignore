@@ -40,6 +40,7 @@
 *.exe
 *.out
 *.app
+c++/example/dxl_monitor/linux64/dxl_monitor
 
 # HTML
 *.html
